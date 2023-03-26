@@ -7,7 +7,7 @@
 | Ctrl + l | Goes to the given line (provide line number) |
 | Ctrl + b | Goes to the matching brace |
 | Ctrl + / | Goes to the previous word |
-| Ctrl + / | Goes to the next word |
+| Ctrl + \ | Goes to the next word |
 | Ctrl + pgDn | Switches to the right file |
 | Ctrl + pgUp | Switches to the left file |
 | Ctrl + | Zoom in |
