@@ -21,4 +21,4 @@
 | Ctrl + q | Quit  |
 | Ctrl + w | Close (file) |
 | Ctrl + alt + p | Preferences |
-| Ctrl + tab | Switches files in reverse direction |
+| Ctrl + tab | Switches to the most recently used file or files|
